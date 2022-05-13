@@ -5,6 +5,7 @@ const HookCounter = () => {
     const [count, setCount] = useState(0);
     const [name, setName] = useState("");
 
+    let x = useState(9)
     const updateCount = () => {
         setCount(prevState => prevState + 1)
     }
