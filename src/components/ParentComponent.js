@@ -17,6 +17,14 @@ const ParentComponent = () => {
         setSalary(salary + 1000);
     }, [salary]);
 
+    // const incrementAge = () => {
+    //     setAge(age + 1);
+    // };
+
+    // const incrementSalary = () => {
+    //     setSalary(salary + 1000);
+    // };
+
     return (
         <>
             <Title />

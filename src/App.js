@@ -55,6 +55,8 @@ function App() {
 
       {/* <DataFetch /> */}
 
+      {/* <HookCounterTwo /> */}
+
       {/* <UserContext.Provider value="Kartik">
         <LanguageContext.Provider value="Hindi">
           <CountContext.Provider value={{ count: count, dispatch: dispatch }}>
@@ -62,8 +64,6 @@ function App() {
           </CountContext.Provider>
         </LanguageContext.Provider>
       </UserContext.Provider> */}
-
-      {/* <HookCounterTwo /> */}
 
       {/* <DataFetchTwo /> */}
 

@@ -11,4 +11,5 @@ const Button = ({text, countFn}) => {
     )
 }
 
+// export default Button;
 export default React.memo(Button);
